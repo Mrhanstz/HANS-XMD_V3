@@ -7,7 +7,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": ""HansTz&JKklQayQ#-uabEgt3nRg7e6LAxBza2lFPj12VS6NPD4DNGrVhwgI
       "required": true,
       "value": ""
     },
@@ -24,7 +24,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
@@ -48,28 +48,28 @@
     },
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
-      "required": true,
-      "value": "true"
+      "required": false, 
+      "value": "false"
     },
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "false"
     },
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*SEEN YOUR STATUS BY HANS-XMD_V3 🖤*"   
+      "required": false,
+      "value": ""   
     },
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "HansTz"
+      "value": "Muhaymar"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255753668403"
+      "value": "254777465416"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -78,8 +78,8 @@
     },
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
    "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
@@ -94,7 +94,7 @@
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "true"
+      "value": "false"
     },  
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
