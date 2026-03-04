@@ -3,9 +3,9 @@
 #!/usr/hanstz
 
 """
-Author             : Hans Tz
-contact            : hanstzgamestech@gmail.com
-Github             : https://github.com/Mrhanstz
+Author             : Bilal
+contact            : itxbilalpic123@gmail.com
+Github             : https://github.com/bilaltanveer2
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
